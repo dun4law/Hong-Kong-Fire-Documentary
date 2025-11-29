@@ -26,44 +26,12 @@
 
 - 現場拍攝的圖片及相關影像紀錄。
 
+## [居民討論 (Residents)](residents/README.md)
+
+- 災後居民討論紀錄及相關對話截圖。
+
 ## [政府文件 (Docs)](docs/README.md)
 
 - 政府部門的回覆、公開信件及業主立案法團會議記錄。
   - [法團會議記錄 (PDF)](docs/meeting_minutes/pdf/README.md)
   - [法團會議記錄 (Markdown)](docs/meeting_minutes/markdown/README.md)
-
----
-
-# Directory Index
-
-This page provides quick links to all major sections.
-
-## [Timeline](timeline/README.md)
-
-- A chronological record of the fire incident development.
-
-## [Videos](videos/README.md)
-
-- Collected on-site video footage and links to original sources.
-
-## [News](news/README.md)
-
-- News reports, feature articles, and official releases from major media outlets.
-
-## [Analysis](analysis/README.md)
-
-- Technical analyses and literature regarding scaffolding safety, material properties, and fire causes.
-
-## [Support](support/README.md)
-
-- Information on volunteer services, supplies support, and community mutual aid.
-
-## [Photos](photos/README.md)
-
-- On-site photos and related visual records.
-
-## [Docs](docs/README.md)
-
-- Government replies, public letters, and Owners' Corporation meeting minutes.
-  - [Meeting Minutes (PDF)](docs/meeting_minutes/pdf/README.md)
-  - [Meeting Minutes (Markdown)](docs/meeting_minutes/markdown/README.md)

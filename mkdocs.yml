@@ -28,6 +28,30 @@ theme:
 
 docs_dir: content
 
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          default: true
+          name: 繁體中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+      nav_translations:
+        en:
+          主頁: Home
+          時間線: Timeline
+          現場片段: Videos
+          新聞報道: News
+          技術分析: Analysis
+          支援資訊: Support
+          圖片紀錄: Photos
+          居民討論: Residents
+          政府文件: Docs
+
 nav:
   - 主頁: index.md
   - 時間線: timeline/README.md
@@ -38,6 +62,3 @@ nav:
   - 圖片紀錄: photos/README.md
   - 居民討論: residents/README.md
   - 政府文件: docs/README.md
-
-plugins:
-  - search
