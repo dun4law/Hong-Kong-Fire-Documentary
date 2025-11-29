@@ -22,6 +22,7 @@ chmod +x scripts/scraper/setup_ubuntu.sh
 ```
 
 The script will:
+
 1. Install system dependencies
 2. Create Python virtual environment
 3. Install Python packages and Playwright
@@ -94,6 +95,7 @@ python daemon.py --once
 ```
 
 **Schedule:**
+
 - Every 10 minutes: Sync with upstream, detect new URLs, scrape them
 - Every 60 minutes: Close old PR (if any), create new PR to upstream
 
@@ -181,7 +183,7 @@ journalctl -u news-scraper -f
 
 ## GitHub Token Setup
 
-1. Go to https://github.com/settings/tokens?type=beta
+1. Go to <https://github.com/settings/tokens?type=beta>
 2. Click "Generate new token"
 3. Select your fork repository
 4. Grant permissions:
@@ -192,6 +194,7 @@ journalctl -u news-scraper -f
 ## Troubleshooting
 
 ### "GITHUB_TOKEN environment variable not set"
+
 ```bash
 export GITHUB_TOKEN="your_token_here"
 # Or source your env file:
@@ -199,17 +202,21 @@ source ~/.scraper_env
 ```
 
 ### "FORK_REPO environment variable not set"
+
 ```bash
 export FORK_REPO="your-username/Hong-Kong-Fire-Documentary"
 ```
 
 ### Timeout errors on certain sites
+
 Some sites (BBC, SCMP) have anti-bot protection. The scraper will retry 3 times automatically. If still failing:
+
 - Increase `timeout_seconds` in `config.yml`
 - Increase `delay_seconds` for that specific site
 - Some sites may not be scrapable (paywall, Cloudflare)
 
 ### Service won't start
+
 ```bash
 # Check logs for errors
 journalctl -u news-scraper -n 50
@@ -235,4 +242,3 @@ journalctl -u news-scraper -n 50
 ## License
 
 Part of the Hong Kong Fire Documentary project. See main repository for license.
-
