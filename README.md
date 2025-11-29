@@ -56,6 +56,43 @@
 - 整理義工支援資訊  
 - 以 Pull Request 或 Issue 形式作出貢獻  
 
+### 提交文件時請提供以下資料 / Information to Include When Submitting Documents
+
+為確保文件可作為有效證據，提交文件時請提供以下資料：
+
+**1. 原始網址 (Original URL)**
+- 文件的原始來源網址
+- 如來源已失效，請註明並提供備份來源（如 Wayback Machine）
+
+**2. 收集時間 (Collection Time)**
+- 記錄您取得文件的時間
+- 格式範例：`2025-11-27 14:30`（如未提供時區，則假設為香港時間 HKT）
+- 如未提供，則假設為該文件首次提交至存庫的時間（原始 commit 時間）
+
+**3. 收集方法 (Collection Method)**
+- 請選擇以下其中一項：
+
+  - 網上下載 (Web download)：從網站下載或自動爬取
+  - 網際網路檔案館 (Wayback Machine)：從 Internet Archive/Wayback Machine 取得
+  - 官方網站 (Official portal)：從官方政府/機構網站下載
+  - 電郵附件 (Email attachment)：以電郵附件形式接收
+  - 通訊平台 (Messaging platform)：從通訊平台取得（Telegram, WhatsApp 等）
+  - 實體掃描 (Physical scan)：從實體文件掃描
+  - 螢幕截圖 (Screenshot)：網頁/螢幕截圖
+  - 第三方檔案庫 (Third-party archive)：從第三方檔案服務取得
+  - 其他 (Other)：其他方法（請在備註中說明）
+
+**4. 收集者 (Collector)**（可選）
+- 如未提供，則假設為提交該條目的貢獻者
+
+**範例 / Example:**
+```markdown
+- [2021-10-04](./2021-10-04.pdf) - 2021年10月4日
+  - **Original URL**: https://example.com/document.pdf
+  - **Collection Time**: 2025-11-27 14:30
+  - **Collection Method**: 網上下載 (Web download)
+```
+
 ## 六、聲明
 
 本存庫只收錄公開及可查證的資料，不包含未經核實的傳聞。本存庫之目的為保存資料、協助研究及提升事件透明度，不作出任何未經證實的指控。
@@ -170,6 +207,43 @@ Contributions are welcome from residents, researchers, and professionals:
 - Providing technical or policy analysis  
 - Consolidating volunteer or community support information  
 - Submitting Pull Requests or Issues to improve the repository  
+
+### Information to Include When Submitting Documents
+
+To ensure documents can serve as valid evidence, please include the following information when submitting documents:
+
+**1. Original URL**
+- The original source URL of the document
+- If the source is no longer available, please note this and provide backup sources (e.g., Wayback Machine)
+
+**2. Collection Time**
+- Record when you obtained the document
+- Format example: `2025-11-27 14:30` (assume HKT if timezone is not provided)
+- If not provided, assumed to be the time when the file was first committed to the repository (original commit time)
+
+**3. Collection Method**
+- Please choose one of the following:
+
+  - 網上下載 (Web download): Download or automated scraping from website
+  - 網際網路檔案館 (Wayback Machine): Retrieved from Internet Archive/Wayback Machine
+  - 官方網站 (Official portal): Downloaded from official government/institutional portal
+  - 電郵附件 (Email attachment): Received as email attachment
+  - 通訊平台 (Messaging platform): Retrieved from messaging platform (Telegram, WhatsApp, etc.)
+  - 實體掃描 (Physical scan): Scanned from physical document
+  - 螢幕截圖 (Screenshot): Screenshot of webpage/screen
+  - 第三方檔案庫 (Third-party archive): Retrieved from third-party archive service
+  - 其他 (Other): Other method (please specify in notes)
+
+**4. Collector** (Optional)
+- If not provided, assumed to be the contributor who added this entry
+
+**Example:**
+```markdown
+- [2021-10-04](./2021-10-04.pdf) - 2021年10月4日
+  - **Original URL**: https://example.com/document.pdf
+  - **Collection Time**: 2025-11-27 14:30
+  - **Collection Method**: 網上下載 (Web download)
+```
 
 ## 6. Disclaimer
 
