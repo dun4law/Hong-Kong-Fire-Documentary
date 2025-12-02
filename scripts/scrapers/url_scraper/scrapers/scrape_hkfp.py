@@ -41,4 +41,3 @@ def scrape():
         results.append((date_str, title, link))
 
     return ('hkfp', results)
-
