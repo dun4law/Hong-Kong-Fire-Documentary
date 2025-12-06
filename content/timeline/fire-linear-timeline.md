@@ -57,6 +57,8 @@
 | 01:00       | 愛護動物協會證實，於前日（29日/星期六）晚上11時至昨日（30日/星期日）晚上11時，共救出91隻動物，其中73隻生還，包括11隻貓、3隻狗、48條魚、2隻鼠、9隻龜等，但當中18隻已不幸離世 || [香港01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 | 08:00       | 教育局宣佈受大火影響停課的學校，今日以不同方式逐步恢復課堂 || [香港01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 | 09:26       | 印尼駐港總領事館指，截至11月30日，已確認9名印尼傭工死亡，1人留醫，36人下落不明 |9名印傭喪生，36人下落不明| [香港01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60299230/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E5%8D%B0%E5%B0%BC%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E9%A4%A8-9%E5%90%8D%E5%8D%B0%E5%82%AD%E5%96%AA%E7%94%9F-36%E4%BA%BA%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E) |
+| **12月2日** |                                                                      |                            |          |
+| 09:58       | 特首李家超宣布成立獨立委員會，調查事故 | | [香港01](https://www.youtube.com/watch?v=ydQ4zEhjcxY)        |
 
 **資料來源**：
 [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [英文維基](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [東方日報](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [香港01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)
