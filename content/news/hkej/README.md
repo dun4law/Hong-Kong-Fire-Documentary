@@ -123,10 +123,12 @@
 - [宏福苑五級火丨滙豐人壽及恒生提供免息貸款](https://www.hkej.com/instantnews/current/article/4260036/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%BB%99%E8%B1%90%E4%BA%BA%E5%A3%BD%E5%8F%8A%E6%81%92%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%8D%E6%81%AF%E8%B2%B8%E6%AC%BE)
 
 ### 2025-11-30
+
 - [宏福苑五級火丨遇難人數增至146人 再尋獲18具遺體](https://www2.hkej.com/instantnews/current/article/4260165/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E9%81%87%E9%9B%A3%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B3146%E4%BA%BA+%E5%86%8D%E5%B0%8B%E7%8D%B218%E5%85%B7%E9%81%BA%E9%AB%94)
 - [宏福苑五級火丨消息:宏盛閣發現遺體](https://www2.hkej.com/instantnews/current/article/4260154/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A8%E6%B6%88%E6%81%AF%3A%E5%AE%8F%E7%9B%9B%E9%96%A3%E7%99%BC%E7%8F%BE%E9%81%BA%E9%AB%94)
 
 ### 2025-12-01
+
 - [5則必讀新聞丨宏福苑部分棚網樣本未達阻燃測試標準](https://www2.hkej.com/instantnews/current/article/4261896/5%E5%89%87%E5%BF%85%E8%AE%80%E6%96%B0%E8%81%9E%E4%B8%A8%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%83%A8%E5%88%86%E6%A3%9A%E7%B6%B2%E6%A8%A3%E6%9C%AC%E6%9C%AA%E9%81%94%E9%98%BB%E7%87%83%E6%B8%AC%E8%A9%A6%E6%A8%99%E6%BA%96)
 - [宏福苑五級火丨5名工程承建商工人遇難](https://www2.hkej.com/instantnews/current/article/4261811/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E4%B8%A85%E5%90%8D%E5%B7%A5%E7%A8%8B%E6%89%BF%E5%BB%BA%E5%95%86%E5%B7%A5%E4%BA%BA%E9%81%87%E9%9B%A3)
 - [宏福苑大火丨陳國基:宏福苑4廈棚網樣本未達阻燃測試標準](https://www2.hkej.com/instantnews/current/article/4261346/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E9%99%B3%E5%9C%8B%E5%9F%BA%3A%E5%AE%8F%E7%A6%8F%E8%8B%914%E5%BB%88%E6%A3%9A%E7%B6%B2%E6%A8%A3%E6%9C%AC%E6%9C%AA%E9%81%94%E9%98%BB%E7%87%83%E6%B8%AC%E8%A9%A6%E6%A8%99%E6%BA%96)
@@ -140,6 +142,7 @@
 - [全城哀悼 獻花人龍2公里排到太和站](https://www1.hkej.com/dailynews/headline/article/4260256/%E5%85%A8%E5%9F%8E%E5%93%80%E6%82%BC+%E7%8D%BB%E8%8A%B1%E4%BA%BA%E9%BE%8D2%E5%85%AC%E9%87%8C%E6%8E%92%E5%88%B0%E5%A4%AA%E5%92%8C%E7%AB%99)
 
 ### 2025-12-02
+
 - [倘偷工減料 離任也可究責](https://www1.hkej.com/dailynews/politics/article/4262176/%E5%80%98%E5%81%B7%E5%B7%A5%E6%B8%9B%E6%96%99+%E9%9B%A2%E4%BB%BB%E4%B9%9F%E5%8F%AF%E7%A9%B6%E8%B2%AC)
 - [無妄浩劫 人性光輝](https://www1.hkej.com/dailynews/commentary/article/4262195/%E7%84%A1%E5%A6%84%E6%B5%A9%E5%8A%AB+%E4%BA%BA%E6%80%A7%E5%85%89%E8%BC%9D)
 - [血濃於水人間有愛 悲傷化力量走出陰霾](https://www1.hkej.com/dailynews/commentary/article/4262123/%E8%A1%80%E6%BF%83%E6%96%BC%E6%B0%B4%E4%BA%BA%E9%96%93%E6%9C%89%E6%84%9B+%E6%82%B2%E5%82%B7%E5%8C%96%E5%8A%9B%E9%87%8F%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE)
@@ -163,4 +166,5 @@
 - [夏寶龍昨南下深圳 聽取火災滙報](https://www1.hkej.com/dailynews/headline/article/4262125/%E5%A4%8F%E5%AF%B6%E9%BE%8D%E6%98%A8%E5%8D%97%E4%B8%8B%E6%B7%B1%E5%9C%B3+%E8%81%BD%E5%8F%96%E7%81%AB%E7%81%BD%E6%BB%99%E5%A0%B1)
 
 ### 2025-12-03
+
 - [英火災調查專家：制度失效猛於火 2017倫敦住宅大廈燒通頂 與宏福苑相似](https://www.hkej.com/dailynews/headline/article/4263751/%E8%8B%B1%E7%81%AB%E7%81%BD%E8%AA%BF%E6%9F%A5%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%88%B6%E5%BA%A6%E5%A4%B1%E6%95%88%E7%8C%9B%E6%96%BC%E7%81%AB)

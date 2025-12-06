@@ -1,6 +1,7 @@
 # Government Press Releases
 
 ## 2025-11-26
+
 - **[Special announcement on fire in Tai Po](https://www.info.gov.hk/gia/general/202511/26/P2025112600489.htm)**
 - **[No. 4 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/26/P2025112600595.htm)**
 - **[Tai Po District Office opens temporary shelters and sets up help desk](https://www.info.gov.hk/gia/general/202511/26/P2025112600600.htm)**
@@ -16,6 +17,7 @@
 - **[Additional temporary shelters opened and interdepartmental help desk set up (2)](https://www.info.gov.hk/gia/general/202511/26/P2025112600928.htm)**
 
 ## 2025-11-27
+
 - **[Government departments go all out to fight No. 5 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/27/P2025112700078.htm)**
 - **[Special traffic and transport arrangements for No. 5 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/27/P2025112700095.htm)**
 - **[FS to shorten visit to Italy and return to Hong Kong](https://www.info.gov.hk/gia/general/202511/27/P2025112700155.htm)**
@@ -37,6 +39,7 @@
 - **[SDEV meets with construction industry on special inspections and regulatory review](https://www.info.gov.hk/gia/general/202511/27/P2025112700986.htm)**
 
 ## 2025-11-28
+
 - **[EDB provides subsidy and support for schools in response to No. 5 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/28/P2025112800671.htm)**
 - **[No. 5 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/28/P2025112800550.htm)**
 - **[Remarks by S for S at media session on No. 5 alarm fire in Tai Po](https://www.info.gov.hk/gia/general/202511/28/P2025112800628.htm)**
@@ -50,6 +53,7 @@
 - **[Home Affairs Department to set up condolence points in all 18 districts](https://www.info.gov.hk/gia/general/202511/28/P2025112801007.htm)**
 
 ## 2025-11-29
+
 - **[Mourning for victims of fire at Wang Fuk Court in Tai Po (with photos/video)](https://www.info.gov.hk/gia/general/202511/29/P2025112900248.htm)**
 - **[Special Mortgage Arrangements for Affected Owners of Subsidised Sale Flats with Premium Unpaid at Wang Fuk Court, Tai Po](https://www.info.gov.hk/gia/general/202511/29/P2025112900238.htm)**
 - **[Remarks by SHYA and SLW at media session regarding follow-up work on No. 5 alarm fire at Wang Fuk Court in Tai Po](https://www.info.gov.hk/gia/general/202511/29/P2025112900394.htm)**
@@ -60,6 +64,7 @@
 - **[Hong Kong mourns Tai Po fire victims as government support efforts continue](https://www.info.gov.hk/gia/general/202511/30/P2025113000032.htm)**
 
 ## 2025-11-30
+
 - **[TD steers bus routes diversion amid follow-up work of Tai Po fire to ease travel inconvenience](https://www.info.gov.hk/gia/general/202511/30/P2025113000682.htm)**
 - **[Primary Healthcare Commission leverages District Health Centres and District Health Centre Expresses across all 18 districts as hubs to provide free primary healthcare services for residents affected by fire incident](https://www.info.gov.hk/gia/general/202511/30/P2025113000776.htm)**
 - **[TD urges motorists to heed traffic arrangements of roads connecting Tai Po](https://www.info.gov.hk/gia/general/202511/30/P2025113000827.htm)**

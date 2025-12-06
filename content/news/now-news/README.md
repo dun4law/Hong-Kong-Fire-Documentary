@@ -5,6 +5,7 @@
 - [宏福苑五級火災．不斷更新](https://news.now.com/home/local/player?newsId=627372)
 
 ### 2025-11-26
+
 - [大埔宏福苑四級火｜外牆棚架焚燒火光沖天 初步兩人嚴重燒傷昏迷送院](https://news.now.com/home/local/player?newsId=627370)
 - [宏福苑四級火｜屋苑多座大廈被波及 造成最少四死三傷](https://news.now.com/home/local/player?newsId=627391)
 - [宏福苑五級火｜棚架起火後波及多座大廈 增至最少四死五傷](https://news.now.com/home/local/player?newsId=627404)
@@ -56,6 +57,7 @@
 - [宏福苑直擊｜大火蔓延多幢大廈　火勢猛烈濃煙沖天](https://news.now.com/home/local/player?newsId=627375)
 
 ### 2025-11-27
+
 - [宏福苑直擊｜部分單位死灰復燃　火光熊熊冒出濃煙](https://news.now.com/home/local/player?newsId=627608)
 - [採訪日誌｜宏福苑五級火災第三日　繼續跟進火場及災民情況](https://news.now.com/home/local/player?newsId=627600)
 - [宏福苑五級火災｜增至94人死亡　76人受傷　消防爆破所有單位確保無人被困](https://news.now.com/home/local/player?newsId=627599)
@@ -122,7 +124,7 @@
 - [時事全方位｜宏福苑火災之應急支援(一)](https://news.now.com/home/local/player?newsId=627484)
 - [時事全方位｜宏福苑火災(二)](https://news.now.com/home/local/player?newsId=627483)
 - [時事全方位｜宏福苑火災(一)](https://news.now.com/home/local/player?newsId=627482)
-- [宏福苑五級火災｜業主立案法團主席指早已向承辦商反映有工人吸煙 ](https://news.now.com/home/local/player?newsId=627499)
+- [宏福苑五級火災｜業主立案法團主席指早已向承辦商反映有工人吸煙](https://news.now.com/home/local/player?newsId=627499)
 - [宏福苑五級火災｜澳門行政長官岑浩輝對遇難者表示哀悼](https://news.now.com/home/local/player?newsId=627500)
 - [宏福苑直擊｜火災逾22小時仍未救熄　消防員繼續射水灌救](https://news.now.com/home/local/player?newsId=627495)
 - [宏福苑五級火災｜中國紅十字會捐200萬元人民幣支持救援行動](https://news.now.com/home/local/player?newsId=627494)
@@ -135,6 +137,7 @@
 - [宏福苑五級火災｜東鐵綫加密班次　途徑大埔等39條專營巴士路線需改道](https://news.now.com/home/local/player?newsId=627465)
 
 ### 2025-11-28
+
 - [宏福苑五級火災｜香港紅十字會：很多災民親人失蹤　不願在庇護中心過夜](https://news.now.com/home/local/player?newsId=627740)
 - [宏福苑五級火災｜火炭穗禾苑大維修同以發泡膠遮窗　居民憂悲劇再演](https://news.now.com/home/local/player?newsId=627739)
 - [社會福利署：宏福苑居民不需登記證就可接受「一戶一社工」服務](https://news.now.com/home/local/player?newsId=627737)
@@ -204,6 +207,7 @@
 - [宏福苑五級火災｜大火增至94死76傷　早上有部分單位死灰復燃](https://news.now.com/home/local/player?newsId=627610)
 
 ### 2025-11-29
+
 - [宏福苑五級火災｜據悉警方國安處拘一人　涉藉宏福苑火災意圖煽動](https://news.now.com/home/local/player?newsId=627837)
 - [港澳辦協調廣東省支援宏福苑救災工作　第二階段首批物資已交付](https://news.now.com/home/local/player?newsId=627835)
 - [宏福苑五級火災｜單位內部照片曝光　完全熏黑傢俱燒成灰燼](https://news.now.com/home/local/player?newsId=627833)
@@ -245,7 +249,7 @@
 - [宏福苑五級火災｜麥美娟感謝熱心市民及機構自發提供物資及捐錢　冀善心人聯絡社署統籌](https://news.now.com/home/local/player?newsId=627770)
 - [宏福苑五級火災｜政府就罹難者下半旗誌哀　市民自發到弔唁處悼念](https://news.now.com/home/local/player?newsId=627769)
 - [宏福苑五級火災｜市民自發到場獻花悼念死難者](https://news.now.com/home/local/player?newsId=627768)
-- [宏福苑五級火災｜特區政府駐境外辦事處下半旗誌哀 ](https://news.now.com/home/local/player?newsId=627765)
+- [宏福苑五級火災｜特區政府駐境外辦事處下半旗誌哀](https://news.now.com/home/local/player?newsId=627765)
 - [梁君彥出席前高級公務員協會晚宴　稱有遵守政府指引](https://news.now.com/home/local/player?newsId=627762)
 - [宏福苑五級火災｜英王查理斯三世就大火　向死者家屬致以慰問](https://news.now.com/home/local/player?newsId=627758)
 - [宏福苑五級火災｜政府就罹難者下半旗致哀　李家超及周霽出席默哀儀式](https://news.now.com/home/local/player?newsId=627756)
@@ -253,6 +257,7 @@
 - [政府官員默哀三分鐘哀悼宏福苑罹難者（附18弔唁處地點）](https://news.now.com/home/local/player?newsId=627755)
 
 ### 2025-11-30
+
 - [晨早新聞重點｜宏福苑五級火災死亡人數增至146人／發生水災的印尼災區據報出現搶掠](https://news.now.com/home/local/player?newsId=627915)
 - [宏福苑五級火災｜入境處將軍澳總部周一至周六非辦公時段讓災民補辦證件](https://news.now.com/home/local/player?newsId=627914)
 - [宏福苑五級火災｜政府援助基金累計12億元捐款　協助居民重建家園](https://news.now.com/home/local/player?newsId=627910)
@@ -262,7 +267,7 @@
 - [經緯線｜世紀火難(二)](https://news.now.com/home/local/player?newsId=627852)
 - [經緯線｜世紀火難(一)](https://news.now.com/home/local/player?newsId=627851)
 - [宏福苑五級火災｜馬會捐沙田閉門賽事7020萬收益　援助宏福苑居民](https://news.now.com/home/local/player?newsId=627899)
-- [宏福苑五級火災｜馬會宣布閉門賽事總收益悉數捐予政府「大埔宏福苑援助基金」 ](https://news.now.com/home/local/player?newsId=627898)
+- [宏福苑五級火災｜馬會宣布閉門賽事總收益悉數捐予政府「大埔宏福苑援助基金」](https://news.now.com/home/local/player?newsId=627898)
 - [宏福苑五級火災｜民建聯指若黃碧嬌有違法行為　絕不姑息](https://news.now.com/home/local/player?newsId=627893)
 - [宏福苑五級火災｜獻花人龍廣福邨排至太和橋](https://news.now.com/home/local/player?newsId=627892)
 - [宏福苑五級火災｜災難辨認組搜索多18具遺體增至146死　79人傷　50多人仍失聯](https://news.now.com/home/local/player?newsId=627889)
@@ -270,7 +275,7 @@
 - [宏福苑五級火災｜累計146人死　警方不排除數字再上升](https://news.now.com/home/local/player?newsId=627886)
 - [宏福苑五級火災｜警方稱死亡人數增至146人　多發現18具遺體　房署指所有樓宇整體結構無即時危險](https://news.now.com/home/local/player?newsId=627885)
 - [時事全方位重點提要｜12月1日](https://news.now.com/home/local/player?newsId=627884)
-- [大埔直擊｜市民沿大埔河畔排隊獻花悼念　人龍見首不見尾　](https://news.now.com/home/local/player?newsId=627882)
+- [大埔直擊｜市民沿大埔河畔排隊獻花悼念　人龍見首不見尾](https://news.now.com/home/local/player?newsId=627882)
 - [宏福苑五級火災｜莫文蔚：香港氣氛沉重　取消下月啟德演唱會](https://news.now.com/home/local/player?newsId=627880)
 - [宏福苑五級火災｜暴露工地消防安全疏忽　工程界：招標時提升消防管理能力比重](https://news.now.com/home/local/player?newsId=627879)
 - [宏福苑五級火災｜陳茂波：哀慟傷痛貫穿整座城市　部門積極投入支援](https://news.now.com/home/local/player?newsId=627877)
@@ -282,6 +287,7 @@
 - [宏福苑五級火災｜災民憶述逃生經過難忘未能救出鄰居　籲倖存者努力活下去](https://news.now.com/home/local/player?newsId=627845)
 
 ### 2025-12-01
+
 - [採訪日誌｜李家超行會前見記者／大埔宏福苑五級火災頭七](https://news.now.com/home/local/player?newsId=628045)
 - [晨早新聞重點｜宏福苑棚網樣本7個未達阻燃標準／道瓊斯指數跌逾400點](https://news.now.com/home/local/player?newsId=628037)
 - [宏福苑五級火災｜屋宇署指宏業28個停工項目涉27個地址(附詳細地址)](https://news.now.com/home/local/player?newsId=628035)
@@ -315,8 +321,8 @@
 - [時事全方位｜宏福苑火災之支援措施(二)](https://news.now.com/home/local/player?newsId=627959)
 - [時事全方位｜宏福苑火災之支援措施(一)](https://news.now.com/home/local/player?newsId=627958)
 - [時事全方位｜宏福苑火災之最新情況(二)](https://news.now.com/home/local/player?newsId=627945)
-- [ 時事全方位｜宏福苑火災之最新情況(一)](https://news.now.com/home/local/player?newsId=627944)
-- [ 時事全方位｜宏福苑火災之情緒支援(二)](https://news.now.com/home/local/player?newsId=627940)
+- [時事全方位｜宏福苑火災之最新情況(一)](https://news.now.com/home/local/player?newsId=627944)
+- [時事全方位｜宏福苑火災之情緒支援(二)](https://news.now.com/home/local/player?newsId=627940)
 - [時事全方位｜宏福苑火災之情緒支援(一)](https://news.now.com/home/local/player?newsId=627939)
 - [宏福苑五級火災｜民建聯大埔區議員黃碧嬌：將報警要求調查現屆法團](https://news.now.com/home/local/player?newsId=627980)
 - [宏福苑五級火災｜民青局：留意到有人利用假災民登記表騙個人資料　提醒市民防範警惕](https://news.now.com/home/local/player?newsId=627963)
@@ -330,6 +336,7 @@
 - [宏福苑五級火災｜借出作援助站多日　馮梁結紀念中學暫以網課復課](https://news.now.com/home/local/player?newsId=627933)
 
 ### 2025-12-02
+
 - [立法會選舉｜大埔區3個票站要臨時調整　陳國基重申從來沒有預設投票率目標](https://news.now.com/home/local/player?newsId=628139)
 - [即日焦點｜李家超宣布就宏福苑火災成立獨立委員會／立法會選舉如期周日投票](https://news.now.com/home/local/player?newsId=628153)
 - [宏福苑五級火災｜孫玉菡：將透過一戶一社工統一處理慈善團體資助申請](https://news.now.com/home/local/player?newsId=628152)

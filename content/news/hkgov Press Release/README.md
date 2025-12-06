@@ -1,6 +1,7 @@
 # 政府新聞公報
 
 ## 2025-11-26
+
 - **[大埔火警特別通知](https://www.info.gov.hk/gia/general/202511/26/P2025112600487.htm)**
 - **[大埔四級火警](https://www.info.gov.hk/gia/general/202511/26/P2025112600585.htm)**
 - **[大埔民政事務處開放臨時庇護中心和設立援助站](https://www.info.gov.hk/gia/general/202511/26/P2025112600596.htm)**
@@ -16,6 +17,7 @@
 - **[加開臨時庇護中心和跨部門援助站（二）](https://www.info.gov.hk/gia/general/202511/26/P2025112600915.htm)**
 
 ## 2025-11-27
+
 - **[政府各部門全力應對大埔五級火警](https://www.info.gov.hk/gia/general/202511/27/P2025112700063.htm)**
 - **[行政長官探望大埔五級火警傷者和受影響居民後會見傳媒談話內容（只有中文）（附圖／短片）](https://www.info.gov.hk/gia/general/202511/27/P2025112700082.htm)**
 - **[大埔五級火警特別交通及運輸安排](https://www.info.gov.hk/gia/general/202511/27/P2025112700094.htm)**
@@ -41,6 +43,7 @@
 - **[發展局局長就特別巡查及制度檢視工作與業界會面](https://www.info.gov.hk/gia/general/202511/27/P2025112700926.htm)**
 
 ## 2025-11-28
+
 - **[​教育局因應大埔五級火警向學校提供津貼及支援](https://www.info.gov.hk/gia/general/202511/28/P2025112800520.htm)**
 - **[​大埔五級火警](https://www.info.gov.hk/gia/general/202511/28/P2025112800551.htm)**
 - **[保安局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言（只有中文）（一）](https://www.info.gov.hk/gia/general/202511/28/P2025112800616.htm)**
@@ -57,6 +60,7 @@
 - **[民政事務總署在全港18區設立弔唁處](https://www.info.gov.hk/gia/general/202511/28/P2025112800849.htm)**
 
 ## 2025-11-29
+
 - **[全港哀悼大埔宏福苑火災罹難者（附圖／短片）](https://www.info.gov.hk/gia/general/202511/29/P2025112900185.htm)**
 - **[​為大埔宏福苑受影響的未補價資助出售單位業主提供特別按揭貸款安排](https://www.info.gov.hk/gia/general/202511/29/P2025112900235.htm)**
 - **[民政及青年事務局局長和勞工及福利局局長會見傳媒答問內容](https://www.info.gov.hk/gia/general/202511/29/P2025112900386.htm)**
@@ -68,6 +72,7 @@
 - **[全港哀悼大埔火災罹難者　政府應急支援不停歇](https://www.info.gov.hk/gia/general/202511/29/P2025112900858.htm)**
 
 ## 2025-11-30
+
 - **[運輸署督導大埔火災後續工作期間巴士改道減低市民出行不便](https://www.info.gov.hk/gia/general/202511/30/P2025113000660.htm)**
 - **[基層醫療署以十八區地區康健中心／站為樞紐　為受火災影響的居民安排免費基層醫療服務](https://www.info.gov.hk/gia/general/202511/30/P2025113000724.htm)**
 - **[運輸署呼籲駕駛人士留意來往大埔道路交通安排](https://www.info.gov.hk/gia/general/202511/30/P2025113000798.htm)**

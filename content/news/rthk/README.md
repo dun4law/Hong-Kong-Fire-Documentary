@@ -157,7 +157,6 @@
 - [雲南昆明一火車站發生試驗列車撞施工人員事故致11人死亡](https://news.rthk.hk/rthk/ch/component/k2/1833574-20251127.htm?archive_date=2025-11-27)
 - [港股半日升86點　中國太平曾挫逾8%　子公司為宏福苑承保商](https://news.rthk.hk/rthk/ch/component/k2/1833540-20251127.htm?archive_date=2025-11-27)
 
-
 ### English
 
 - [Businesses offer help to Tai Po fire victims](https://news.rthk.hk/rthk/en/component/k2/1833572-20251127.htm?archive_date=2025-11-27)
@@ -263,6 +262,7 @@
 ## 2025-11-29
 
 ### Chinese
+
 - [宏福苑五級火｜18區弔唁處供市民簽署弔唁冊悼念罹難者](https://news.rthk.hk/rthk/ch/component/k2/1833830-20251129.htm?archive_date=2025-11-29)
 - [宏福苑五級火｜大埔醫院病人服務助理遇難　醫管局一名員工失聯](https://news.rthk.hk/rthk/ch/component/k2/1833829-20251129.htm?archive_date=2025-11-29)
 - [宏福苑五級火｜屋宇署分批巡查外牆大維修並有搭建棚架保護網樓宇](https://news.rthk.hk/rthk/ch/component/k2/1833854-20251129.htm?archive_date=2025-11-29)
@@ -313,12 +313,13 @@
 - [宏福苑五級火｜市民到大埔富亨鄰里社區中心簽署弔唁冊](https://news.rthk.hk/rthk/ch/component/k2/1833864-20251129.htm?archive_date=2025-11-29)
 - [宏福苑五級火｜市民獻花悼念　災難遇害者辨認組到場續調查工作](https://news.rthk.hk/rthk/ch/component/k2/1833861-20251129.htm?archive_date=2025-11-29)
 
-
 ### English
+
 - [No further bodies found in search of two Tai Po blocks](https://news.rthk.hk/rthk/en/component/k2/1833912-20251129.htm?archive_date=2025-11-29)
 - [Condolence books set up for Tai Po fire victims](https://news.rthk.hk/rthk/en/component/k2/1833879-20251129.htm?archive_date=2025-11-29)
 
 ### 2025-11-30
+
 - [Tai Po inferno death toll rises to 146](https://news.rthk.hk/rthk/en/component/k2/1833986-20251130.htm?archive_date=2025-11-30)
 - [Government offers full support to fire victims: FS](https://news.rthk.hk/rthk/en/component/k2/1833969-20251130.htm?archive_date=2025-11-30)
 - [Govt pledges free housing for Tai Po survivors](https://news.rthk.hk/rthk/en/component/k2/1833968-20251130.htm?archive_date=2025-11-30)
@@ -358,8 +359,8 @@
 - [宏福苑五級火｜新華時評指特區政府措施高效落實　社會團結大愛](https://news.rthk.hk/rthk/ch/component/k2/1833940-20251130.htm?archive_date=2025-11-30)
 - [宏福苑五級火｜政府稱繼續馬不停蹄全方位推進後續支援善後](https://news.rthk.hk/rthk/ch/component/k2/1833939-20251130.htm?archive_date=2025-11-30)
 
-
 ### 2025-12-01
+
 - [Over 2,400 Wang Fuk Court residents rehoused](https://news.rthk.hk/rthk/en/component/k2/1834152-20251201.htm?archive_date=2025-12-01)
 - [Additional subsidies for Tai Po fire victims announced](https://news.rthk.hk/rthk/en/component/k2/1834145-20251201.htm?archive_date=2025-12-01)
 - [Govt waives medical fees for Wang Fuk Court residents](https://news.rthk.hk/rthk/en/component/k2/1834137-20251201.htm?archive_date=2025-12-01)

@@ -37,6 +37,7 @@ SOURCE_DIR_MAP = {
     "Hong Kong Free Press": "hkfp",
 }
 
+
 def main():
     """"""
     script_dir = os.path.dirname(os.path.abspath(__file__))
