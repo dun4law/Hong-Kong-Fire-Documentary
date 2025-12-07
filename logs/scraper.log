@@ -1346,3 +1346,990 @@ hint: "git config advice.addIgnoredFile false"
 2025-12-02 08:36:16 | INFO     | Starting sync cycle...
 2025-12-02 08:36:16 | INFO     | Syncing with upstream...
 2025-12-02 08:36:16 | INFO     | Behind upstream by 3 commits, merging...
+2025-12-07 01:42:26 | INFO     | ============================================================
+2025-12-07 01:42:26 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:42:26 | ERROR    | FORK_REPO environment variable not set!
+2025-12-07 01:42:26 | ERROR    | Please set it: export FORK_REPO='username/repo-name'
+2025-12-07 01:43:31 | INFO     | ============================================================
+2025-12-07 01:43:31 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:43:31 | ERROR    | FORK_REPO environment variable not set!
+2025-12-07 01:43:31 | ERROR    | Please set it: export FORK_REPO='username/repo-name'
+2025-12-07 01:44:42 | INFO     | ============================================================
+2025-12-07 01:44:42 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:44:42 | INFO     | Fork: https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git
+2025-12-07 01:44:42 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:44:42 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:44:42 | INFO     | PR interval: 60 minutes
+2025-12-07 01:44:42 | INFO     | ============================================================
+2025-12-07 01:44:43 | INFO     | gh CLI authenticated
+2025-12-07 01:44:43 | INFO     | Setting up git remotes...
+2025-12-07 01:44:43 | INFO     | Configured origin remote
+2025-12-07 01:44:44 | INFO     | gh CLI authenticated
+2025-12-07 01:44:44 | INFO     | ----------------------------------------
+2025-12-07 01:44:44 | INFO     | Running periodic health check...
+2025-12-07 01:44:45 | INFO     | gh CLI authenticated
+2025-12-07 01:44:45 | INFO     | Health check passed
+2025-12-07 01:44:45 | INFO     | ----------------------------------------
+2025-12-07 01:44:45 | INFO     | Starting sync cycle...
+2025-12-07 01:44:45 | INFO     | Syncing with upstream...
+2025-12-07 01:44:46 | INFO     | Already up to date with upstream
+2025-12-07 01:44:46 | INFO     | Running scraper...
+2025-12-07 01:44:46 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:44:46 | INFO     | Committing changes...
+2025-12-07 01:44:46 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:44
+2025-12-07 01:44:46 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:44:46 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:44']' returned non-zero exit status 128.
+2025-12-07 01:44:46 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:47 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:50 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:50 | INFO     | Daemon stopped by user
+2025-12-07 01:45:31 | INFO     | ============================================================
+2025-12-07 01:45:31 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:45:31 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:45:31 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:45:31 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:45:31 | INFO     | PR interval: 60 minutes
+2025-12-07 01:45:31 | INFO     | ============================================================
+2025-12-07 01:45:31 | INFO     | gh CLI authenticated
+2025-12-07 01:45:31 | INFO     | Setting up git remotes...
+2025-12-07 01:45:31 | INFO     | Configured origin remote
+2025-12-07 01:45:32 | INFO     | gh CLI authenticated
+2025-12-07 01:45:32 | INFO     | ----------------------------------------
+2025-12-07 01:45:32 | INFO     | Running periodic health check...
+2025-12-07 01:45:33 | INFO     | gh CLI authenticated
+2025-12-07 01:45:33 | INFO     | Health check passed
+2025-12-07 01:45:33 | INFO     | ----------------------------------------
+2025-12-07 01:45:33 | INFO     | Starting sync cycle...
+2025-12-07 01:45:33 | INFO     | Syncing with upstream...
+2025-12-07 01:45:34 | INFO     | Already up to date with upstream
+2025-12-07 01:45:34 | INFO     | Running scraper...
+2025-12-07 01:45:34 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:45:34 | INFO     | Committing changes...
+2025-12-07 01:45:34 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:45
+2025-12-07 01:45:34 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:45:34 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:45']' returned non-zero exit status 128.
+2025-12-07 01:45:35 | INFO     | Pushed to origin successfully
+2025-12-07 01:45:35 | INFO     | Sync cycle complete
+2025-12-07 01:45:35 | INFO     | ----------------------------------------
+2025-12-07 01:45:35 | INFO     | Starting PR cycle...
+2025-12-07 01:45:36 | INFO     | Pushed to origin successfully
+2025-12-07 01:45:36 | INFO     | Managing PR...
+2025-12-07 01:45:40 | ERROR    | Failed to create PR: Warning: 58 uncommitted changes
+pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-07 01:45:40 | INFO     | PR cycle complete
+2025-12-07 01:45:40 | INFO     | Run once mode, exiting...
+2025-12-07 01:46:02 | INFO     | ============================================================
+2025-12-07 01:46:02 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:46:02 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:46:02 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:46:02 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:46:02 | INFO     | PR interval: 60 minutes
+2025-12-07 01:46:02 | INFO     | ============================================================
+2025-12-07 01:46:02 | INFO     | gh CLI authenticated
+2025-12-07 01:46:02 | INFO     | Setting up git remotes...
+2025-12-07 01:46:02 | INFO     | Configured origin remote
+2025-12-07 01:46:03 | INFO     | gh CLI authenticated
+2025-12-07 01:46:03 | INFO     | ----------------------------------------
+2025-12-07 01:46:03 | INFO     | Running periodic health check...
+2025-12-07 01:46:04 | INFO     | gh CLI authenticated
+2025-12-07 01:46:04 | INFO     | Health check passed
+2025-12-07 01:46:04 | INFO     | ----------------------------------------
+2025-12-07 01:46:04 | INFO     | Starting sync cycle...
+2025-12-07 01:46:04 | INFO     | Syncing with upstream...
+2025-12-07 01:46:05 | INFO     | Already up to date with upstream
+2025-12-07 01:46:05 | INFO     | Running scraper...
+2025-12-07 01:46:05 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:46:05 | INFO     | Committing changes...
+2025-12-07 01:46:05 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:46
+2025-12-07 01:46:05 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:46:05 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:46']' returned non-zero exit status 128.
+2025-12-07 01:46:06 | INFO     | Pushed to origin successfully
+2025-12-07 01:46:06 | INFO     | Sync cycle complete
+2025-12-07 01:46:06 | INFO     | ----------------------------------------
+2025-12-07 01:46:06 | INFO     | Starting PR cycle...
+2025-12-07 01:46:07 | INFO     | Pushed to origin successfully
+2025-12-07 01:46:07 | INFO     | Managing PR...
+2025-12-07 01:46:11 | ERROR    | Failed to create PR: Warning: 58 uncommitted changes
+pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-07 01:46:11 | INFO     | PR cycle complete
+2025-12-07 01:46:11 | INFO     | Run once mode, exiting...
+2025-12-07 01:47:21 | INFO     | ============================================================
+2025-12-07 01:47:21 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:47:21 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:47:21 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:47:21 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:47:21 | INFO     | PR interval: 60 minutes
+2025-12-07 01:47:21 | INFO     | ============================================================
+2025-12-07 01:47:22 | INFO     | gh CLI authenticated
+2025-12-07 01:47:22 | INFO     | Setting up git remotes...
+2025-12-07 01:47:22 | INFO     | Configured origin remote
+2025-12-07 01:47:23 | INFO     | gh CLI authenticated
+2025-12-07 01:47:23 | INFO     | ----------------------------------------
+2025-12-07 01:47:23 | INFO     | Running periodic health check...
+2025-12-07 01:47:24 | INFO     | gh CLI authenticated
+2025-12-07 01:47:24 | INFO     | Health check passed
+2025-12-07 01:47:24 | INFO     | ----------------------------------------
+2025-12-07 01:47:24 | INFO     | Starting sync cycle...
+2025-12-07 01:47:24 | INFO     | Syncing with upstream...
+2025-12-07 01:47:24 | INFO     | Already up to date with upstream
+2025-12-07 01:47:24 | INFO     | Running scraper...
+2025-12-07 01:47:24 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:47:25 | INFO     | Committing changes...
+2025-12-07 01:47:25 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:47
+2025-12-07 01:47:25 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:47:25 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:47']' returned non-zero exit status 128.
+2025-12-07 01:47:26 | INFO     | Pushed to origin successfully
+2025-12-07 01:47:26 | INFO     | Sync cycle complete
+2025-12-07 01:47:26 | INFO     | ----------------------------------------
+2025-12-07 01:47:26 | INFO     | Starting PR cycle...
+2025-12-07 01:47:27 | INFO     | Pushed to origin successfully
+2025-12-07 01:47:27 | INFO     | Managing PR...
+2025-12-07 01:47:27 | INFO     | Daemon stopped by user
+2025-12-07 01:49:32 | INFO     | ============================================================
+2025-12-07 01:49:32 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:49:32 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:49:32 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:49:32 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:49:32 | INFO     | PR interval: 60 minutes
+2025-12-07 01:49:32 | INFO     | ============================================================
+2025-12-07 01:49:33 | INFO     | gh CLI authenticated
+2025-12-07 01:49:33 | INFO     | Setting up git remotes...
+2025-12-07 01:49:33 | INFO     | Configured origin remote
+2025-12-07 01:49:33 | INFO     | gh CLI authenticated
+2025-12-07 01:49:33 | INFO     | ----------------------------------------
+2025-12-07 01:49:33 | INFO     | Running periodic health check...
+2025-12-07 01:49:34 | INFO     | gh CLI authenticated
+2025-12-07 01:49:34 | INFO     | Health check passed
+2025-12-07 01:49:34 | INFO     | ----------------------------------------
+2025-12-07 01:49:34 | INFO     | Starting sync cycle...
+2025-12-07 01:49:34 | INFO     | Syncing with upstream...
+2025-12-07 01:49:34 | INFO     | Already up to date with upstream
+2025-12-07 01:49:34 | INFO     | Running scraper...
+2025-12-07 01:49:35 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:49:35 | INFO     | Committing changes...
+2025-12-07 01:49:35 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 01:49
+2025-12-07 01:49:37 | INFO     | Pushed to origin successfully
+2025-12-07 01:49:37 | INFO     | Sync cycle complete
+2025-12-07 01:49:37 | INFO     | ----------------------------------------
+2025-12-07 01:49:37 | INFO     | Starting PR cycle...
+2025-12-07 01:49:38 | INFO     | Pushed to origin successfully
+2025-12-07 01:49:38 | INFO     | Managing PR...
+2025-12-07 01:49:43 | INFO     | Created PR: https://github.com/adminlby/Hong-Kong-Fire-Documentary/pull/6
+2025-12-07 01:49:43 | INFO     | Stats reset for new PR cycle
+2025-12-07 01:49:43 | INFO     | PR cycle complete
+2025-12-07 01:49:43 | INFO     | Run once mode, exiting...
+2025-12-07 01:51:26 | INFO     | ============================================================
+2025-12-07 01:51:26 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:51:26 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:51:26 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:51:26 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:51:26 | INFO     | PR interval: 60 minutes
+2025-12-07 01:51:26 | INFO     | ============================================================
+2025-12-07 01:51:27 | INFO     | gh CLI authenticated
+2025-12-07 01:51:27 | INFO     | Setting up git remotes...
+2025-12-07 01:51:27 | INFO     | Configured origin remote
+2025-12-07 01:51:28 | INFO     | gh CLI authenticated
+2025-12-07 01:51:28 | INFO     | ----------------------------------------
+2025-12-07 01:51:28 | INFO     | Running periodic health check...
+2025-12-07 01:51:28 | INFO     | gh CLI authenticated
+2025-12-07 01:51:28 | INFO     | Health check passed
+2025-12-07 01:51:28 | INFO     | ----------------------------------------
+2025-12-07 01:51:28 | INFO     | Starting sync cycle...
+2025-12-07 01:51:28 | INFO     | Syncing with upstream...
+2025-12-07 01:51:29 | INFO     | Already up to date with upstream
+2025-12-07 01:51:29 | INFO     | Running scraper...
+2025-12-07 01:51:29 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:51:29 | INFO     | Committing changes...
+2025-12-07 01:51:29 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 01:51
+2025-12-07 01:51:31 | INFO     | Pushed to origin successfully
+2025-12-07 01:51:31 | INFO     | Sync cycle complete
+2025-12-07 01:51:31 | INFO     | ----------------------------------------
+2025-12-07 01:51:31 | INFO     | Starting PR cycle...
+2025-12-07 01:51:32 | INFO     | Pushed to origin successfully
+2025-12-07 01:51:32 | INFO     | Managing PR...
+2025-12-07 01:51:32 | INFO     | PR #6 exists, updating description with fresh stats...
+2025-12-07 01:51:34 | ERROR    | Failed to update PR #6: GraphQL: Projects (classic) is being deprecated in favor of the new Projects experience, see: https://github.blog/changelog/2024-05-23-sunset-notice-projects-classic/. (repository.pullRequest.projectCards)
+
+2025-12-07 01:51:34 | INFO     | PR cycle complete
+2025-12-07 01:51:34 | INFO     | Run once mode, exiting...
+2025-12-07 01:55:58 | INFO     | ============================================================
+2025-12-07 01:55:58 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:55:58 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:55:58 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:55:58 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:55:58 | INFO     | PR interval: 60 minutes
+2025-12-07 01:55:58 | INFO     | ============================================================
+2025-12-07 01:55:58 | INFO     | gh CLI authenticated
+2025-12-07 01:55:58 | INFO     | Setting up git remotes...
+2025-12-07 01:55:58 | INFO     | Configured origin remote
+2025-12-07 01:55:59 | INFO     | gh CLI authenticated
+2025-12-07 01:55:59 | WARNING  | Health check: on branch 'hk-hack-007', expected 'main'
+2025-12-07 01:55:59 | INFO     | ----------------------------------------
+2025-12-07 01:55:59 | INFO     | Running periodic health check...
+2025-12-07 01:55:59 | INFO     | gh CLI authenticated
+2025-12-07 01:56:00 | INFO     | Health check passed
+2025-12-07 01:56:00 | INFO     | ----------------------------------------
+2025-12-07 01:56:00 | INFO     | Starting sync cycle...
+2025-12-07 01:56:00 | INFO     | Syncing with upstream...
+2025-12-07 01:56:00 | INFO     | Already up to date with upstream
+2025-12-07 01:56:00 | INFO     | Running scraper...
+2025-12-07 01:56:00 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:56:00 | INFO     | Committing changes...
+2025-12-07 02:13:37 | INFO     | ============================================================
+2025-12-07 02:13:37 | INFO     | News Scraper Daemon Starting
+2025-12-07 02:13:37 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 02:13:37 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 02:13:37 | INFO     | Sync interval: 10 minutes
+2025-12-07 02:13:37 | INFO     | PR interval: 60 minutes
+2025-12-07 02:13:37 | INFO     | ============================================================
+2025-12-07 02:13:38 | INFO     | gh CLI authenticated
+2025-12-07 02:13:38 | INFO     | Setting up git remotes...
+2025-12-07 02:13:38 | INFO     | Configured origin remote
+2025-12-07 02:13:39 | INFO     | gh CLI authenticated
+2025-12-07 02:13:39 | INFO     | ----------------------------------------
+2025-12-07 02:13:39 | INFO     | Running periodic health check...
+2025-12-07 02:13:40 | INFO     | gh CLI authenticated
+2025-12-07 02:13:40 | INFO     | Health check passed
+2025-12-07 02:13:40 | INFO     | ----------------------------------------
+2025-12-07 02:13:40 | INFO     | Starting sync cycle...
+2025-12-07 02:13:40 | INFO     | Syncing with upstream...
+2025-12-07 02:13:41 | INFO     | Already up to date with upstream
+2025-12-07 02:13:41 | INFO     | Running scraper...
+2025-12-07 02:13:41 | INFO     | Found 2 new URLs to scrape
+2025-12-07 02:13:42 | ERROR    | Scraper error: BrowserType.launch: Executable doesn't exist at /home/hk-hack/.cache/ms-playwright/chromium_headless_shell-1194/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-12-07 02:13:42 | INFO     | Committing changes...
+2025-12-07 02:13:42 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 02:13
+2025-12-07 02:13:44 | INFO     | Pushed to origin successfully
+2025-12-07 02:13:44 | INFO     | Sync cycle complete
+2025-12-07 02:13:44 | INFO     | ----------------------------------------
+2025-12-07 02:13:44 | INFO     | Starting PR cycle...
+2025-12-07 02:13:45 | INFO     | Pushed to origin successfully
+2025-12-07 02:13:45 | INFO     | Managing PR...
+2025-12-07 02:13:46 | INFO     | PR #6 exists, updating description with fresh stats...
+2025-12-07 02:13:47 | ERROR    | Failed to update PR #6: GraphQL: Projects (classic) is being deprecated in favor of the new Projects experience, see: https://github.blog/changelog/2024-05-23-sunset-notice-projects-classic/. (repository.pullRequest.projectCards)
+
+2025-12-07 02:13:47 | INFO     | PR cycle complete
+2025-12-07 02:13:47 | INFO     | Run once mode, exiting...
+2025-12-07 02:43:45 | INFO     | ============================================================
+2025-12-07 02:43:45 | INFO     | News Scraper Daemon Starting
+2025-12-07 02:43:45 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 02:43:45 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 02:43:45 | INFO     | Sync interval: 10 minutes
+2025-12-07 02:43:45 | INFO     | PR interval: 60 minutes
+2025-12-07 02:43:45 | INFO     | ============================================================
+2025-12-07 02:43:46 | INFO     | gh CLI authenticated
+2025-12-07 02:43:46 | INFO     | Setting up git remotes...
+2025-12-07 02:43:46 | INFO     | Configured origin remote
+2025-12-07 02:43:47 | INFO     | gh CLI authenticated
+2025-12-07 02:43:49 | INFO     | ----------------------------------------
+2025-12-07 02:43:49 | INFO     | Running periodic health check...
+2025-12-07 02:43:49 | INFO     | gh CLI authenticated
+2025-12-07 02:43:50 | INFO     | Health check passed
+2025-12-07 02:43:50 | INFO     | ----------------------------------------
+2025-12-07 02:43:50 | INFO     | Starting sync cycle...
+2025-12-07 02:43:50 | INFO     | Syncing with upstream...
+2025-12-07 02:43:51 | INFO     | Already up to date with upstream
+2025-12-07 02:43:51 | INFO     | Running scraper...
+2025-12-07 02:43:52 | INFO     | Found 66 new URLs to scrape
+2025-12-07 02:49:53 | INFO     | Updated cumulative stats: 65 success, 1 failed across 1 cycles
+2025-12-07 02:49:53 | INFO     | Scraper results: 65 success, 1 failed
+2025-12-07 02:49:54 | INFO     | Committing changes...
+2025-12-07 04:00:41 | INFO     | ============================================================
+2025-12-07 04:00:41 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:00:41 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:00:41 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:00:41 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:00:41 | INFO     | PR interval: 60 minutes
+2025-12-07 04:00:41 | INFO     | ============================================================
+2025-12-07 04:00:42 | INFO     | gh CLI authenticated
+2025-12-07 04:00:42 | INFO     | Setting up git remotes...
+2025-12-07 04:00:42 | INFO     | Configured origin remote
+2025-12-07 04:00:42 | INFO     | gh CLI authenticated
+2025-12-07 04:00:43 | INFO     | ----------------------------------------
+2025-12-07 04:00:43 | INFO     | Running periodic health check...
+2025-12-07 04:00:44 | INFO     | gh CLI authenticated
+2025-12-07 04:00:44 | INFO     | Health check passed
+2025-12-07 04:00:44 | INFO     | ----------------------------------------
+2025-12-07 04:00:44 | INFO     | Starting sync cycle...
+2025-12-07 04:00:44 | INFO     | Syncing with upstream...
+2025-12-07 04:00:45 | INFO     | Already up to date with upstream
+2025-12-07 04:00:45 | INFO     | Running scraper...
+2025-12-07 04:00:45 | ERROR    | Scraper error: No module named 'yaml'
+2025-12-07 04:00:46 | INFO     | Committing changes...
+2025-12-07 04:00:46 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 04:00
+2025-12-07 04:00:46 | ERROR    | stderr: Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'user@DESKTOP-0PEBUUP.(none)')
+
+2025-12-07 04:00:46 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 04:00']' returned non-zero exit status 128.
+2025-12-07 04:00:47 | INFO     | Pushed to origin successfully
+2025-12-07 04:00:47 | INFO     | Sync cycle complete
+2025-12-07 04:00:47 | INFO     | ----------------------------------------
+2025-12-07 04:00:47 | INFO     | Starting PR cycle...
+2025-12-07 04:00:48 | INFO     | Pushed to origin successfully
+2025-12-07 04:00:48 | INFO     | Managing PR...
+2025-12-07 04:00:50 | INFO     | PR #6 exists, updating description with fresh stats...
+2025-12-07 04:00:53 | INFO     | Updated PR #6 with fresh stats
+2025-12-07 04:00:53 | INFO     | PR cycle complete
+2025-12-07 04:01:06 | INFO     | Daemon stopped by user
+2025-12-07 04:02:04 | INFO     | ============================================================
+2025-12-07 04:02:04 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:02:04 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:02:04 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:02:04 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:02:04 | INFO     | PR interval: 60 minutes
+2025-12-07 04:02:04 | INFO     | ============================================================
+2025-12-07 04:02:05 | INFO     | gh CLI authenticated
+2025-12-07 04:02:05 | INFO     | Setting up git remotes...
+2025-12-07 04:02:05 | INFO     | Configured origin remote
+2025-12-07 04:02:06 | INFO     | gh CLI authenticated
+2025-12-07 04:02:06 | INFO     | ----------------------------------------
+2025-12-07 04:02:06 | INFO     | Running periodic health check...
+2025-12-07 04:02:07 | INFO     | gh CLI authenticated
+2025-12-07 04:02:07 | INFO     | Health check passed
+2025-12-07 04:02:07 | INFO     | ----------------------------------------
+2025-12-07 04:02:07 | INFO     | Starting sync cycle...
+2025-12-07 04:02:07 | INFO     | Syncing with upstream...
+2025-12-07 04:02:07 | INFO     | Daemon stopped by user
+2025-12-07 04:16:42 | INFO     | ============================================================
+2025-12-07 04:16:42 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:16:42 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:16:42 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:16:42 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:16:42 | INFO     | PR interval: 60 minutes
+2025-12-07 04:16:42 | INFO     | ============================================================
+2025-12-07 04:16:43 | INFO     | gh CLI authenticated
+2025-12-07 04:16:43 | INFO     | Setting up git remotes...
+2025-12-07 04:16:43 | INFO     | Configured origin remote
+2025-12-07 04:16:43 | INFO     | gh CLI authenticated
+2025-12-07 04:16:43 | INFO     | ----------------------------------------
+2025-12-07 04:16:43 | INFO     | Running periodic health check...
+2025-12-07 04:16:44 | INFO     | gh CLI authenticated
+2025-12-07 04:16:44 | INFO     | Health check passed
+2025-12-07 04:16:44 | INFO     | ----------------------------------------
+2025-12-07 04:16:44 | INFO     | Starting sync cycle...
+2025-12-07 04:16:44 | INFO     | Syncing with upstream...
+2025-12-07 04:16:45 | INFO     | Daemon stopped by user
+2025-12-07 04:17:46 | INFO     | ============================================================
+2025-12-07 04:17:46 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:17:46 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:17:46 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:17:46 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:17:46 | INFO     | PR interval: 60 minutes
+2025-12-07 04:17:46 | INFO     | ============================================================
+2025-12-07 04:17:46 | INFO     | gh CLI authenticated
+2025-12-07 04:17:46 | INFO     | Setting up git remotes...
+2025-12-07 04:17:46 | INFO     | Configured origin remote
+2025-12-07 04:17:47 | INFO     | gh CLI authenticated
+2025-12-07 04:20:12 | INFO     | ============================================================
+2025-12-07 04:20:12 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:20:12 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:20:12 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:20:12 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:20:12 | INFO     | PR interval: 60 minutes
+2025-12-07 04:20:12 | INFO     | ============================================================
+2025-12-07 04:20:12 | INFO     | gh CLI authenticated
+2025-12-07 04:20:12 | INFO     | Setting up git remotes...
+2025-12-07 04:20:12 | INFO     | Configured origin remote
+2025-12-07 04:32:47 | INFO     | ============================================================
+2025-12-07 04:32:47 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:32:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:32:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:32:47 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:32:47 | INFO     | PR interval: 60 minutes
+2025-12-07 04:32:47 | INFO     | ============================================================
+2025-12-07 04:32:47 | INFO     | gh CLI authenticated
+2025-12-07 04:32:47 | INFO     | Setting up git remotes...
+2025-12-07 04:32:47 | INFO     | Configured origin remote
+2025-12-07 04:32:48 | INFO     | gh CLI authenticated
+2025-12-07 04:32:48 | INFO     | ----------------------------------------
+2025-12-07 04:32:48 | INFO     | Running periodic health check...
+2025-12-07 04:32:48 | INFO     | Daemon stopped by user
+2025-12-07 04:34:13 | INFO     | ============================================================
+2025-12-07 04:34:13 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:34:13 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:34:13 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:34:13 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:34:13 | INFO     | PR interval: 60 minutes
+2025-12-07 04:34:13 | INFO     | ============================================================
+2025-12-07 04:34:13 | INFO     | gh CLI authenticated
+2025-12-07 04:34:13 | INFO     | Setting up git remotes...
+2025-12-07 04:34:13 | INFO     | Configured origin remote
+2025-12-07 04:34:14 | INFO     | gh CLI authenticated
+2025-12-07 04:34:14 | INFO     | ----------------------------------------
+2025-12-07 04:34:14 | INFO     | Running periodic health check...
+2025-12-07 04:34:16 | INFO     | gh CLI authenticated
+2025-12-07 04:34:16 | INFO     | Health check passed
+2025-12-07 04:34:16 | INFO     | ----------------------------------------
+2025-12-07 04:34:16 | INFO     | Starting sync cycle...
+2025-12-07 04:34:16 | INFO     | Syncing with upstream...
+2025-12-07 04:34:17 | INFO     | Already up to date with upstream
+2025-12-07 04:34:17 | INFO     | Running scraper...
+2025-12-07 04:34:17 | ERROR    | Scraper error: No module named 'yaml'
+2025-12-07 04:34:17 | INFO     | Committing changes...
+2025-12-07 04:34:17 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 04:34
+2025-12-07 04:34:19 | INFO     | Pushed to origin successfully
+2025-12-07 04:34:19 | INFO     | Sync cycle complete
+2025-12-07 04:34:19 | INFO     | ----------------------------------------
+2025-12-07 04:34:19 | INFO     | Starting PR cycle...
+2025-12-07 04:34:20 | INFO     | Daemon stopped by user
+2025-12-07 04:35:53 | INFO     | ============================================================
+2025-12-07 04:35:53 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:35:53 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:35:53 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:35:53 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:35:53 | INFO     | PR interval: 60 minutes
+2025-12-07 04:35:53 | INFO     | ============================================================
+2025-12-07 04:35:53 | INFO     | gh CLI authenticated
+2025-12-07 04:35:53 | INFO     | Setting up git remotes...
+2025-12-07 04:35:54 | INFO     | Configured origin remote
+2025-12-07 04:35:54 | INFO     | gh CLI authenticated
+2025-12-07 04:35:54 | INFO     | ----------------------------------------
+2025-12-07 04:35:54 | INFO     | Running periodic health check...
+2025-12-07 04:35:56 | INFO     | gh CLI authenticated
+2025-12-07 04:35:56 | INFO     | Health check passed
+2025-12-07 04:35:56 | INFO     | ----------------------------------------
+2025-12-07 04:35:56 | INFO     | Starting sync cycle...
+2025-12-07 04:35:56 | INFO     | Syncing with upstream...
+2025-12-07 04:35:57 | INFO     | Daemon stopped by user
+2025-12-07 04:36:02 | INFO     | ============================================================
+2025-12-07 04:36:02 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:36:02 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:36:02 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:36:02 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:36:02 | INFO     | PR interval: 60 minutes
+2025-12-07 04:36:02 | INFO     | ============================================================
+2025-12-07 04:36:03 | INFO     | gh CLI authenticated
+2025-12-07 04:36:03 | INFO     | Setting up git remotes...
+2025-12-07 04:36:04 | INFO     | Configured origin remote
+2025-12-07 04:36:04 | INFO     | gh CLI authenticated
+2025-12-07 04:36:04 | INFO     | ----------------------------------------
+2025-12-07 04:36:04 | INFO     | Running periodic health check...
+2025-12-07 04:36:05 | INFO     | gh CLI authenticated
+2025-12-07 04:36:05 | INFO     | Health check passed
+2025-12-07 04:36:05 | INFO     | ----------------------------------------
+2025-12-07 04:36:05 | INFO     | Starting sync cycle...
+2025-12-07 04:36:05 | INFO     | Syncing with upstream...
+2025-12-07 04:36:07 | INFO     | Already up to date with upstream
+2025-12-07 04:36:07 | INFO     | Running scraper...
+2025-12-07 04:36:07 | INFO     | Found 595 new URLs to scrape
+2025-12-07 04:36:59 | ERROR    | Scraper error: No module named 'requests'
+2025-12-07 04:36:59 | INFO     | Committing changes...
+2025-12-07 04:37:00 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-07 04:37
+2025-12-07 04:37:03 | INFO     | Pushed to origin successfully
+2025-12-07 04:37:03 | INFO     | Sync cycle complete
+2025-12-07 04:37:03 | INFO     | ----------------------------------------
+2025-12-07 04:37:03 | INFO     | Starting PR cycle...
+2025-12-07 04:37:04 | INFO     | Pushed to origin successfully
+2025-12-07 04:37:04 | INFO     | Managing PR...
+2025-12-07 04:37:05 | INFO     | Daemon stopped by user
+2025-12-07 04:37:05 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 507, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 393, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 329, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 04:37:05 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 507, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 393, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 329, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 04:37:05 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 507, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 393, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 329, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 04:37:05 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 507, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 393, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 329, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 04:37:05 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 507, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 393, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 329, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-07 04:37:33 | INFO     | ============================================================
+2025-12-07 04:37:33 | INFO     | News Scraper Daemon Starting
+2025-12-07 04:37:33 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 04:37:33 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 04:37:33 | INFO     | Sync interval: 10 minutes
+2025-12-07 04:37:33 | INFO     | PR interval: 60 minutes
+2025-12-07 04:37:33 | INFO     | ============================================================
+2025-12-07 04:37:34 | INFO     | gh CLI authenticated
+2025-12-07 04:37:34 | INFO     | Setting up git remotes...
+2025-12-07 04:37:34 | INFO     | Configured origin remote
+2025-12-07 04:37:34 | INFO     | gh CLI authenticated
+2025-12-07 04:37:34 | INFO     | ----------------------------------------
+2025-12-07 04:37:34 | INFO     | Running periodic health check...
+2025-12-07 04:37:35 | INFO     | gh CLI authenticated
+2025-12-07 04:37:36 | INFO     | Health check passed
+2025-12-07 04:37:36 | INFO     | ----------------------------------------
+2025-12-07 04:37:36 | INFO     | Starting sync cycle...
+2025-12-07 04:37:36 | INFO     | Syncing with upstream...
+2025-12-07 04:37:36 | INFO     | Already up to date with upstream
+2025-12-07 04:37:36 | INFO     | Running scraper...
+2025-12-07 04:37:36 | INFO     | Found 595 new URLs to scrape

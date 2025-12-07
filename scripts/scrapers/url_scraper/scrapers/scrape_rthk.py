@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 def scrape():
     base_url = "https://news.rthk.hk"
-    start_date = datetime.date(2025, 11, 26)
+    start_date = datetime.date(2025, 12, 01)
     end_date = datetime.date.today()
 
     configs = [{"lang": "English", "url": "https://news.rthk.hk/rthk/en/news-archive.htm", "keywords": ["Tai Po", "Wang Fuk", "fire", "blaze"]}, {"lang": "Chinese", "url": "https://news.rthk.hk/rthk/ch/news-archive.htm", "keywords": ["大埔", "宏福", "火災", "火"]}]
